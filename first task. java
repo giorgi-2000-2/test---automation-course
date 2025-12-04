@@ -4,6 +4,7 @@ public class Main {
         int i = 1;
         while (i <= 10) {
             System.out.println(MainNumber + " x " + i + " = " + (i * MainNumber));
+
             i++;
         }
 
